@@ -7,9 +7,7 @@ namespace APIsAndJSON
     {
         static void Main(string[] args)
         {
-            QuoteGenerator.KanyeQuote();
-
-            QuoteGenerator.RonQuote();
+            QuoteGenerator.Convo();
         }
     }
 }
